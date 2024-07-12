@@ -49,3 +49,5 @@ Explore the various sections of the website:
 ![Footer](https://github.com/DilshanaRanawake/Flower-Shop-Website/blob/main/screenshots/9.png)
 
 Happy browsing and thank you for visiting the Flower Shop Website!
+
+*** This project was inspired by a tutorial.
